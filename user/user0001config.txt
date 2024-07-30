@@ -1,1 +1,19 @@
-user000
+user0001c.
+USER 0001 CONFIGURATION txt
+#disable
+
+******************
+isi config
+******************
+
+
+
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Akun belum aktif.
+
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Hubungi ADMIN !.
+
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Whatsapp: 082126624400
+
+
+
+
